@@ -1,0 +1,22 @@
+{
+  "title": "Acme Robotics &lt;&gt; OurFund",
+  "url": "https://your-workspace.fellow.app/meetings/example-meeting-id",
+  "started_at": "2026-10-08T15:00:00Z",
+  "participants (from get-meeting-participants)": [
+    { "name": "Partner One", "is_attendee": true, "is_external": false },
+    { "name": "Max Founder", "is_attendee": true, "is_external": true },
+    { "name": "", "email": "lena@acmerobotics.example", "is_attendee": true, "is_external": true },
+    { "name": "Analyst One", "is_attendee": false, "is_external": false }
+  ],
+  "summaries": {
+    "final_summary": "Max and Lena presented Acme Robotics, which builds autonomous picking robots for mid-sized warehouses. They are raising a EUR 3M seed; EUR 1.8M is committed and a lead investor has been named. Partner One asked about unit economics and pilot conversion.",
+    "chapters": [
+      { "title": "Product and pilots", "start": 221, "bullets": ["3 paid pilots, 2 converted to annual contracts", "Lena owns hardware; Max owns sales"] },
+      { "title": "Round status", "start": 1177, "bullets": ["EUR 1.8M of EUR 3M committed", "Target first close end of November"] }
+    ],
+    "action_items": [
+      { "text": "Send data room access to the fund", "assignee": "max@acmerobotics.example" },
+      { "text": "Share pilot conversion numbers", "assignee": "lena@acmerobotics.example" }
+    ]
+  }
+}

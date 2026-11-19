@@ -12,7 +12,7 @@ Five automations I built for a venture firm with two funds (**FUND1** invests in
 |---|----------|-------------------|
 | 1 | [Email intake](#1-email-intake) | Pitch decks were filed by hand |
 | 2 | [Call-notes sync](#2-call-notes-sync) | Call notes never reached the CRM |
-| 3 | [Deal card enrichment](#3-deal-card-enrichment) | CRM deal cards went stale |
+| 3 | [Deal card enrichment](#3-deal-card-enrichment) | CRM deal cards rarely updated |
 | 4 | [Briefing digest](#4-briefing-digest) | Next steps from team meetings got lost |
 | 5 | [Coverage questions](#5-coverage-questions) | No clear view of what was still unknown about a deal |
 

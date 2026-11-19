@@ -2,11 +2,11 @@
 
 Five automations I built for a venture firm with two funds (**FUND1** invests in startups, **FUND2** invests in other funds). Each one fixes a different bottleneck in the team's deal process, and together they run unattended every day.
 
-**Stack:** Google Apps Script · scheduled Claude agents · Gmail · Google Drive & Sheets · Fellow (call recordings) · Notion (CRM) · Python for analytics. Built with Claude as the coding assistant.
+**Stack:** Google Apps Script · scheduled Claude agents · Gmail · Google Drive & Sheets · Fellow (call recordings) · Notion (CRM) · Python for analytics. Built/ coded by myself and partialy with Claude as the coding assistant.
 
 ![Tests](https://img.shields.io/badge/tests-94%20passing-brightgreen) ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-JS-blue) ![Python](https://img.shields.io/badge/analytics-Python-yellow)
 
-> Anonymized version. All firm, team, fund and deal names, IDs and links are replaced with placeholders. All data in `sample-data/` is invented. Shared with the firm's permission.
+> Anonymized version. All firm, team, fund and deal names, IDs and links are replaced with placeholders. All data in `sample-data/` is invented.
 
 | # | Workflow | Problem it solves |
 |---|----------|-------------------|

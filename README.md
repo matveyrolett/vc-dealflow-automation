@@ -176,8 +176,9 @@ node tests/run-tests.js      # ✅ All 94 tests passed.
 
 ## Impact
 
-- `[X]` decks processed automatically
-- `[X]` hours a week of manual data entry removed
+- ~15 new deals a week processed automatically (~190 since launch in August 2026)
+- ~40 minutes of manual work saved per deal (≈10 min logging + ≈30 min updating the CRM)
+- ≈10 hours a week of data entry removed
 - Every active deal card updated within a day of a new call or document
 
 ## Repository layout
